@@ -1,2 +1,3 @@
 # Time_series_prediction_ML
 
+The project involves predicting alcohol sales over time using machine learning, specifically employing Linear Regression and Random Forest models. The dataset, containing temporal information on alcohol sales, is preprocessed and split into training and testing sets. Both models are trained on the training data, and their predictive performances are evaluated on the test data using the Mean Squared Error metric. The project aims to determine which model performs better in terms of accuracy on the test set, providing insights into the efficacy of Linear Regression and Random Forest for time series prediction of alcohol sales.
